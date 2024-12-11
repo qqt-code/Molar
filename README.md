@@ -1,4 +1,4 @@
-# [MCRec: Multimodal LLMs with Collaborative Filtering Alignments Enhanced Sequential Recommendation]
+# [Molar: Multimodal LLMs with Collaborative Filtering Alignments Enhanced Sequential Recommendation]
 <!-- (https://arxiv.org/abs/2409.12740) -->
 
 <div align="center">
