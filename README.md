@@ -59,7 +59,6 @@ To train MCRec on PixelRec Reviews, you can run the following command.
 sh sh/user_2b_vl_item_2b_vl_user_visual.sh
 # train text 
 sh sh/user_2b_vl_item_2b.sh
-# # Please remove tag in books dataset.
 ```
 > You can use `--gradient_checkpointing True` and `--stage 3` with deepspeed to save memory.
 
